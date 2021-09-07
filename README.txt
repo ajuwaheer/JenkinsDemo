@@ -1,1 +1,1 @@
-Sanple file for Jenkins Demo.
+Sample file for Jenkins Demo.
